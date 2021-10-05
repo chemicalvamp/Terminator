@@ -1,5 +1,0 @@
-iexplore
-MicrosoftEdge
-MicrosoftEdgeCP
-browser_broker
-"New notification"
