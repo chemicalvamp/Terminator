@@ -1,7 +1,7 @@
 # Terminator
-A Swiss Army Knife of apps, Don't play indie games without it.
-
-It's features:
+A Swiss Army Knife of apps, Don't play indie games without it.<br>
+<br>
+It's features:<br>
   -Will play an almost inaudible sound periodically to keep your soundbar on and usable. (Because auto power off is really something they needed..)
   -It has 2 hotkeys: 
     -ctrl+alt+Ins will kill whatever window is topmost. (Because sometimes task manager is not accessible, behind a crashed app that refuses to give up the screen.) <- this is my favorite thing to do
