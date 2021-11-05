@@ -1,5 +1,4 @@
 # Terminator
-A Swiss Army Knife of apps, Don't play indie games without it.<br>
 <br>
 It's features:<br>
   -Will play an almost inaudible sound periodically to keep your soundbar on and usable. (Because auto power off is really something they needed..)<br>
